@@ -1,0 +1,21 @@
+corixidae,water boatmen
+notonectidae,typical backswimmers
+belostomatidae,giant water bugs
+nepidae,waterscorpions
+gelastocoridae,toad bugs
+gerridae,water striders
+cimicidae,bed bugs
+miridae,plant bugs
+reduviidae,assassin bugs
+phymatinae,ambush bugs
+tingidae,lace bugs
+lygaeidae,seed bugs
+coreidae,leaf-footed bugs
+pentatomidae,stink bugs
+cicadidae,typical cicadas
+membracidae,typical treehoppers
+cercopidae,froghoppers
+cicadellidae,typical leafhoppers
+fulgoridae,lanternflies
+aphididae,aphids
+dactylopiidae,cochineal insects

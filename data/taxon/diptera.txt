@@ -1,0 +1,15 @@
+tipulidae,large crane flies
+culicidae,mosquitoes
+chironomidae,non-biting midges
+simuliidae,black flies
+stratiomyidae,soldier flies
+tabanidae,horse flies,deer flies
+asilidae,robber flies
+bombyliidae,bee flies
+syrphidae,hover flies
+tephritidae,fruit flies
+drosophilidae,vinegar flies,fruit flies
+muscidae,house flies
+hippoboscidae,louse flies
+calliphoridae,blow flies
+tachinidae,bristle flies

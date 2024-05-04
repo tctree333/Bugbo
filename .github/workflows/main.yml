@@ -1,0 +1,28 @@
+name: 'Deploy'
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Sentry Deploys
+        uses: getsentry/action-release@v1
+        env:
+          SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_INTEGRATION_TOKEN }}
+          SENTRY_ORG: sciolyid
+          SENTRY_PROJECT: bugbo
+
+      - name: Deploy to Dokku
+        uses: tctree333/SciOlyID-Actions/deploy-dokku@master
+        with:
+          dokku app name: bugbo
+          dokku host: ${{ secrets.DOKKU_HOST }}
+          ssh private key: ${{ secrets.PRIVATE_KEY }}
+          deploy branch: main

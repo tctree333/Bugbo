@@ -1,0 +1,6 @@
+tetrigidae,pygmy grasshoppers
+acrididae,short-horned grasshoppers
+tettigoniidae,katydids
+gryllacrididae,raspy crickets
+gryllidae,true crickets
+gryllotalpidae,mole crickets
