@@ -32,7 +32,7 @@ config: Dict[str, Any] = {
     "log_dir": "logs/",  # directory for text logs/backups
     "bot_files_dir": "bot_files",  # folder for bot generated files (downloaded images, logs)
     "short_id_type": "e",  # short (usually 1 letter) form of id_type, used as alias for the pic command
-    "invite": "https://discord.com/oauth2/authorize?client_id=&permissions=51200&scope=bot",  # bot server invite link
+    "invite": "https://discord.com/oauth2/authorize?client_id=1252793513700233339&permissions=51200&scope=bot",  # bot server invite link
     "authors": "person_v1.32",  # creator names
     "extra_about_fields": [
         {
