@@ -1,2 +1,1 @@
-phthiraptera,parasitic lice
-anoplura,sucking lice
+psocodea,barklice,booklice,parasitic lice

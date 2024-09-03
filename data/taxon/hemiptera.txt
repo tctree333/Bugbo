@@ -7,7 +7,7 @@ gerridae,water striders
 cimicidae,bed bugs
 miridae,plant bugs
 reduviidae,assassin bugs
-phymatinae,ambush bugs
+phymatinae,phymatidae,ambush bugs
 tingidae,lace bugs
 lygaeidae,seed bugs
 coreidae,leaf-footed bugs

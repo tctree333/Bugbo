@@ -12,4 +12,4 @@ drosophilidae,vinegar flies,fruit flies
 muscidae,house flies
 hippoboscidae,louse flies
 calliphoridae,blow flies
-tachinidae,bristle flies
+tachinidae,tachinid flies

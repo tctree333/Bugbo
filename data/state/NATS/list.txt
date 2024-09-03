@@ -1,7 +1,8 @@
 protura
 collembola
 diplura
-thysanura
+archaeognatha
+zygentoma
 ephemeroptera
 aeshnidae
 gomphidae
@@ -10,8 +11,7 @@ lestidae
 coenagrionidae
 blattodea
 mantodea
-isoptera
-grylloblattodea
+notoptera
 dermaptera
 plecoptera
 tetrigidae
@@ -20,10 +20,8 @@ tettigoniidae
 gryllacrididae
 gryllidae
 gryllotalpidae
-phasmatodea
-psocoptera
-mallophaga
-anoplura
+phasmida
+psocodea
 corixidae
 notonectidae
 belostomatidae
@@ -33,7 +31,7 @@ gerridae
 cimicidae
 miridae
 reduviidae
-phymatidae
+phymatinae
 tingidae
 lygaeidae
 coreidae
@@ -49,7 +47,7 @@ thysanoptera
 megaloptera
 chrysopidae
 myrmeleontidae
-cicindelidae
+cicindelinae
 carabidae
 dytiscidae
 gyrinidae
@@ -75,6 +73,7 @@ curculionidae
 strepsiptera
 boreidae
 panorpidae
+raphidiidae
 siphonaptera
 tipulidae
 culicidae
@@ -99,14 +98,11 @@ papilionidae
 pieridae
 lycaenidae
 nymphalidae
-satyridae
-danaidae
+danainae
 pyralidae
 saturniidae
 sphingidae
-arctiidae
-lymantriidae
-noctuidae
+erebidae
 tenthredinidae
 siricidae
 ichneumonidae
@@ -114,7 +110,9 @@ cynipidae
 mutillidae
 formicidae
 vespidae
+sphecidae
 colletidae
 halictidae
 megachilidae
 apidae
+ixodidae

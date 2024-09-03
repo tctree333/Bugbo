@@ -1,4 +1,4 @@
-cicindelinae,tiger beetles
+cicindelinae,cicindelidae,tiger beetles
 carabidae,ground beetles
 dytiscidae,predaceous diving beetles
 gyrinidae,whirligig beetles

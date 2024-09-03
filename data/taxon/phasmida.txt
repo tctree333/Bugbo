@@ -1,1 +1,1 @@
-phasmida,stick insects
+phasmida,stick insects,phasmatodea,phasmatoptera
