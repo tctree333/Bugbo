@@ -47,6 +47,7 @@ config: Dict[str, Any] = {
     "category_name": "taxon",  # space thing, bird order, muscle group - what you are splitting groups by
     "category_aliases": {  # aliases for categories
         "protura": ["coneheads"],
+        "collembola": ["springtails", "collemboles"],
         "diplura": ["two-pronged bristletails"],
         "archaeognatha": ["bristletails"],
         "zygentoma": ["silverfishes"],
