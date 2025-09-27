@@ -74,7 +74,6 @@ syrphidae
 drosophilidae
 muscidae
 calliphoridae
-oestridae
 trichoptera
 sesiidae
 hesperiidae
